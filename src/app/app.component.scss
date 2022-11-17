@@ -1,0 +1,22 @@
+input {
+    margin: 5px;
+}
+
+button {
+    color: black;
+    background-color: blueviolet;
+    border-color: black;
+    border-width: 4px;
+    font-size: 50px;
+    border-radius: 10px;
+    justify-content: center;
+    margin:5px;
+}
+
+.empty{
+    background-color: red;
+}
+
+.filled{
+    background-color: greenyellow;
+}
