@@ -20,3 +20,12 @@ button {
 .filled{
     background-color: greenyellow;
 }
+
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('http://listcarbrands.com/wp-content/uploads/2016/02/Koenigsegg-L%D0%BEgo.png');
+    background-size: cover;
+  }
