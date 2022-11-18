@@ -1,0 +1,41 @@
+input {
+    margin: 5px;
+}
+
+button {
+    color: black;
+    background-color: blueviolet;
+    border-color: black;
+    border-width: 4px;
+    font-size: 50px;
+    border-radius: 10px;
+    justify-content: center;
+    margin:5px;
+}
+
+.empty{
+    background-color: red;
+}
+
+.filled{
+    background-color: greenyellow;
+}
+
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('http://listcarbrands.com/wp-content/uploads/2016/02/Koenigsegg-L%D0%BEgo.png');
+    background-size: cover;
+  }
+
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
