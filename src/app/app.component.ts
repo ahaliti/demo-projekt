@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'demo-projekt';
   something = '';
-  things = ['Home', 'car'];
+  things = ['Home', 'car', 'Try Out'];
 
   setName(event: Event) {
     this.something = (event.target as HTMLInputElement).value;
